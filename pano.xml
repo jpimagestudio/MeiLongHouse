@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" start="node10" appversion="7.1.1a" apprev="20895">
+  <panorama id="node10">
+    <input height="2357" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2357">
+      <level predecode="0" height="2357" width="2357" preload="0"/>
+      <level predecode="0" height="1178" width="1178" preload="0"/>
+      <level predecode="0" height="589" width="589" preload="0"/>
+      <level predecode="1" height="294" width="294" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="48.1252">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="23.98293079" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="121.62006721" heading="48.1252" datetime="2022/10/21 8:15" nodeid="node10" title="外入口" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-264.87" title="左側巷道" tilt="3.89" url="{node13}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-1.27" title="內入口" tilt="-1.83" url="{node9}" skinid="ht_node"/>
+      <hotspot description="" id="Point03" target="$fwd" pan="-88.74" title="左側巷道" tilt="-4.56" url="{node13}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="2360" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2360">
+      <level predecode="0" height="2360" width="2360" preload="0"/>
+      <level predecode="0" height="1180" width="1180" preload="0"/>
+      <level predecode="0" height="590" width="590" preload="0"/>
+      <level predecode="1" height="295" width="295" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="50.7693">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="50.7693" datetime="2022/10/21 8:18" nodeid="node13" title="左側巷道" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-88.82" title="外入口" tilt="-4.81" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="2360" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2360">
+      <level predecode="0" height="2360" width="2360" preload="0"/>
+      <level predecode="0" height="1180" width="1180" preload="0"/>
+      <level predecode="0" height="590" width="590" preload="0"/>
+      <level predecode="1" height="295" width="295" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="50.8789">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="50.8789" datetime="2022/10/21 8:21" nodeid="node11" title="右側巷道" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-269.85" title="外入口" tilt="-1.11" url="{node10}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-355.02" title="右側巷道" tilt="-2.02" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="2359" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2359">
+      <level predecode="0" height="2359" width="2359" preload="0"/>
+      <level predecode="0" height="1179" width="1179" preload="0"/>
+      <level predecode="0" height="589" width="589" preload="0"/>
+      <level predecode="1" height="294" width="294" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="55.0875">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="55.0875" datetime="2022/10/21 8:25" nodeid="node12" title="右側巷道" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-173.2" title="右側巷道" tilt="-4.94" url="{node11}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-269.61" title="右草皮" tilt="-2.2" url="{node14}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="2356" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2356">
+      <level predecode="0" height="2356" width="2356" preload="0"/>
+      <level predecode="0" height="1178" width="1178" preload="0"/>
+      <level predecode="0" height="589" width="589" preload="0"/>
+      <level predecode="1" height="294" width="294" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="52.5642">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="52.5642" datetime="2022/10/21 8:27" nodeid="node14" title="右草皮" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-356.41" title="右草皮" tilt="-2.4" url="{node15}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-88.05" title="右側巷道" tilt="-13.1" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="2358" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2358">
+      <level predecode="0" height="2358" width="2358" preload="0"/>
+      <level predecode="0" height="1179" width="1179" preload="0"/>
+      <level predecode="0" height="589" width="589" preload="0"/>
+      <level predecode="1" height="294" width="294" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="55.5297">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="55.5297" datetime="2022/10/21 8:30" nodeid="node15" title="右草皮" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-173.75" title="右草皮" tilt="-2.11" url="{node14}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2495" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2495">
+      <level predecode="0" height="2495" width="2495" preload="0"/>
+      <level predecode="0" height="1247" width="1247" preload="0"/>
+      <level predecode="0" height="623" width="623" preload="0"/>
+      <level predecode="1" height="311" width="311" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-130.951">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="-130.951" datetime="2022/10/13 14:10" nodeid="node9" title="內入口" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-0.74" title="外入口" tilt="-1.73" url="{node10}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-231.87" title="桌區1" tilt="-1.41" url="{node16}" skinid="ht_node"/>
+      <hotspot description="" id="Point03" target="_blank" pan="-179.01" title="線上訂位" tilt="-9.74" url="https://inline.app/booking/-N9C8UkmhQ2d68X1ZcjG:inline-live-1/-N9C8UyhNzxb4Sn8j3Oa?fbclid=IwZXh0bgNhZW0CMTAAAR1iUIFfmZH3PmXQFvDTESOWWMxNKpjFMOBOiptdj8wwdE9Zl20AbqWxdjo_aem_eXb-N2Iw21vGCzO0E7aNVg" skinid="ht_url"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="2496" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2496">
+      <level predecode="0" height="2496" width="2496" preload="0"/>
+      <level predecode="0" height="1248" width="1248" preload="0"/>
+      <level predecode="0" height="624" width="624" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="226.861">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="226.861" datetime="2022/10/13 15:32" nodeid="node16" title="桌區1" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-181.76" title="桌區2" tilt="-1.08" url="{node17}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-91.61" title="內入口" tilt="-1.87" url="{node9}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="2489" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2489">
+      <level predecode="0" height="2489" width="2489" preload="0"/>
+      <level predecode="0" height="1244" width="1244" preload="0"/>
+      <level predecode="0" height="622" width="622" preload="0"/>
+      <level predecode="1" height="311" width="311" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="46.0414">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="46.0414" datetime="2022/10/13 14:58" nodeid="node17" title="桌區2" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-2.99" title="桌區3" tilt="-1.66" url="{node18}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-175.91" title="桌區1" tilt="-0.03" url="{node16}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="2500" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2500">
+      <level predecode="0" height="2500" width="2500" preload="0"/>
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="315.327">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="315.327" datetime="2022/10/13 14:41" nodeid="node18" title="桌區3" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-93.26" title="桌區4" tilt="-0.76" url="{node19}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-268.2" title="桌區2" tilt="-1.39" url="{node17}" skinid="ht_node"/>
+      <hotspot description="Online Menu" id="Point03" target="_blank" pan="-12.61" title="線上菜單" tilt="-14.9" url="https://iding.tw/stores/4562f403/menu?fbclid=IwY2xjawESvxwBHRKGYmUFljS97FHPfnDZ1cq02rCBNvbLlqT5iTycts4-DxH-6nNJbMyqNg" skinid="ht_url"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="2490" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2490">
+      <level predecode="0" height="2490" width="2490" preload="0"/>
+      <level predecode="0" height="1245" width="1245" preload="0"/>
+      <level predecode="0" height="622" width="622" preload="0"/>
+      <level predecode="1" height="311" width="311" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-39.5469">
+      <start projection="4" pan="-180" tilt="0" fov="130"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="-39.5469" datetime="2022/10/13 14:28" nodeid="node19" title="桌區4" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-89.93" title="廁所入口" tilt="-1.44" url="{node2}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-262.85" title="桌區3" tilt="0.19" url="{node18}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <video id="Element01" stretch="0.974" fov="34.250" popoutscaling="70" mode="3" nodechangekeep="0" poster="media/_preview.jpg" roty="0.700" popbackmode="2" width="1920" tilt="25.110" startmutedmobile="1" clickmode="1" hidepinned="0" height="1080" rotx="-2.110" pansize="7.000" level="0.400" handcursor="1" tiltsize="7.000" field="55.000" ambientlevel="0.500" pan="0.990" rotz="-0.070" loop="0">
+        <source url="media/fireshow-1.mov"/>
+      </video>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2786" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2786">
+      <level predecode="0" height="2786" width="2786" preload="0"/>
+      <level predecode="0" height="1393" width="1393" preload="0"/>
+      <level predecode="0" height="696" width="696" preload="0"/>
+      <level predecode="1" height="348" width="348" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-138.324">
+      <start projection="4" pan="-180" tilt="0" fov="130"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="-138.324" datetime="2022/10/19 14:46" nodeid="node2" title="廁所入口" tags="Panorama|RS1"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-244.87" title="廁所" tilt="-5.13" url="{node1}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-2.02" title="桌區4" tilt="-0.58" url="{node19}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="2795" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2795">
+      <level predecode="0" height="2795" width="2795" preload="0"/>
+      <level predecode="0" height="1397" width="1397" preload="0"/>
+      <level predecode="0" height="698" width="698" preload="0"/>
+      <level predecode="1" height="349" width="349" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-175.272">
+      <start projection="4" pan="-180" tilt="0" fov="130"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="-175.272" datetime="2022/10/19 14:53" nodeid="node1" title="廁所" tags="Panorama|RS1"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-219.85" title="廁所" tilt="-1.19" url="{node5}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-126.35" title="廁所入口" tilt="-0.71" url="{node2}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2365" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2365">
+      <level predecode="0" height="2365" width="2365" preload="0"/>
+      <level predecode="0" height="1182" width="1182" preload="0"/>
+      <level predecode="0" height="591" width="591" preload="0"/>
+      <level predecode="1" height="295" width="295" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="51.11">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="51.11" datetime="2022/10/20 14:45" nodeid="node5" title="廁所" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-0.52" title="廁所" tilt="-0.96" url="{node6}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" target="$fwd" pan="-177.15" title="廁所" tilt="0.04" url="{node1}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2368" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" leveltilesize="510" width="2368">
+      <level predecode="0" height="2368" width="2368" preload="0"/>
+      <level predecode="0" height="1184" width="1184" preload="0"/>
+      <level predecode="0" height="592" width="592" preload="0"/>
+      <level predecode="1" height="296" width="296" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="53.4637">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata source="" description="" latitude="" customnodeid="" copyright="Copyright by James Lee." info="" comment="" author="James Lee                   " longitude="" heading="53.4637" datetime="2022/10/20 14:57" nodeid="node6" title="廁所" tags="Panorama"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" backgroundalpha="1" background="1" textcolor="0x000000" wordwrap="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" pan="-156.41" title="廁所" tilt="-2.35" url="{node5}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound id="_background" level="0.800" pansize="10.000" tiltsize="10.000" field="90.000" ambientlevel="0.000" mode="0" nodechangekeep="1" pan="-1.000" tilt="-1.000" startmutedmobile="0" loop="0">
+        <source url="media/   BGM  Blues Infusion  Quincas Moreira      .mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" type="crossdissolve" zoomfov="40" enabled="1" blendcolor="0x000000" zoomafteroutfov="40" delay="none" blendtime="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextvr="1" sensitivity="8" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="下午茶時段：14:00～17:00&#xa;提供單點之各式冷熱飲品、生啤酒&#xa;特色沙拉輕食、窯烤手工披薩（自製麵團經低溫12小時發酵，麵香十足、口感酥脆Q彈；特別不會造成胃酸及脹氣）&#xa;&#xa;寵物下午茶套餐（全時段供應）&#xa;&#xa;晚餐時段：17:30～21:00（建議預約），提供梅蘢鎮套餐：漁港時令海鮮、肉品、特色蔬食⋯採減法料理方式、不重油重鹹過度烹調，針對食材特性以400度窯烤瞬間鎖住食材水份及鮮美或直火碳烤增加香氣！&#xa;PS:若有特殊過敏的食材或飲食禁忌煩請務必備註或告知～&#xa;&#xa;收費方式：2024/5/1起成人1500/位，7～12歲孩童1000/位，7歲以下孩童建議二位可共餐一套兒童餐或來電詢問（酒水另計）&#xa;&#xa;PS：訂位日期前三日會由本系統寄送訂金訊息；還請貴賓最晚請於用餐當日下午四時前告知人數異動，現場恕無法更動！食材昂貴、請多見諒～🙏&#xa;&#xa;結帳加收10%服務費&#xa;&#xa;#友善寵物餐廳&#xa;#寵物美食健康美味更好拍&#xa;#大草皮遛毛孩兒空間&#xa;#下午茶時段限量供應&#xa;***&#xa;花蓮縣花蓮市民德二街26-1號&#xa;0987-888737&#xa;" title="梅蘢鎮" copyright="爵攝數位影像工作室" comment="" author="爵攝數位影像工作室" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map mapmaxzoom="18" id="Map01" mapprovider="openstreetmap" index="0" type="web" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapstyle="streets" title=""/>
+  <map mapmaxzoom="18" id="Map02" mapprovider="openstreetmap" index="1" type="web" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapstyle="streets" title=""/>
+  <map mapmaxzoom="18" id="Map03" mapprovider="openstreetmap" index="2" type="web" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapstyle="streets" title=""/>
+</tour>
